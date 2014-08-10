@@ -15,6 +15,11 @@ body {
   margin: 0 auto;
 }
 
+#cr {
+	font-size: 14px;
+	color: #5B5B53;
+}
+
 h1{
   font-size: 48px;
   color: #339966;
